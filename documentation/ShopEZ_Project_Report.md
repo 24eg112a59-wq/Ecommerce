@@ -2,7 +2,7 @@
 Project Title
 ShopEZ – E-Commerce Platform
 Team Members
-G.KRUTHI REDDY
+A.Snehith
 
 2. Project Overview
 Purpose
